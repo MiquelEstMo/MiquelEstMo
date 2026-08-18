@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DB954&height=200&section=header&text=Hola,%20soc%20en%20Miquel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A66C2,100:1DB954&height=200&section=header&text=Hola,%20soc%20en%20Miquel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <h3 align="center">🎓 Estudiant d'Enginyeria en Sistemes Audiovisuals a la UPF</h3>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/MiquelEstMo/Audio-Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiquelEstMo&repo=Audio-Visualizer&theme=synthwave&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MiquelEstMo&repo=Audio-Visualizer&theme=synthwave&hide_border=true" />
   </a>
 </p>
 
@@ -57,12 +57,12 @@
 ### 📊 Estadístiques de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiquelEstMo&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiquelEstMo&layout=compact&theme=synthwave&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MiquelEstMo&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiquelEstMo&layout=compact&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiquelEstMo&theme=synthwave&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MiquelEstMo&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:0A66C2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1DB954,100:0A66C2&height=100&section=footer"/>
 </p>
 
 <p align="center">
