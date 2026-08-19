@@ -35,16 +35,16 @@
 
 <p align="center">
   <b>Llenguatges & entorn</b><br/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e415e" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=003333" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=7a2415" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=003b5c" />
 </p>
 
 <p align="center">
   <b>Àudio & producció</b><br/>
-  <img src="https://img.shields.io/badge/-Reaper-6A6A6A?style=for-the-badge&logo=reaper&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Reaper-6A6A6A?style=for-the-badge&logo=reaper&logoColor=white&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white&labelColor=1a1a66" />
 </p>
 
 ---
