@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Estudiant d'Enginyeria en Sistemes Audiovisuals a la UPF</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Audio+%7C+Processament+de+senyal;Sempre+aprenent+coses+noves+🎧;Obert+a+col%C2%B7laborar+en+projectes+d'%C3%A0udio" alt="Typing SVG" />
+  🎧 Àudio &nbsp;|&nbsp; 📡 Processament de senyal &nbsp;|&nbsp; 🎛️ Sempre aprenent coses noves
 </p>
 
 <p align="center">
@@ -34,12 +34,17 @@
 ### 🧰 Stack i eines
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,docker,latex&theme=dark" />
+  <b>Llenguatges & entorn</b><br/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reaper-000000?style=for-the-badge&logo=reaper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
+  <b>Àudio & producció</b><br/>
+  <img src="https://img.shields.io/badge/-Reaper-6A6A6A?style=for-the-badge&logo=reaper&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white&labelColor=000000" />
 </p>
 
 ---
@@ -48,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/MiquelEstMo/Audio-Visualizer">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MiquelEstMo&repo=Audio-Visualizer&theme=synthwave&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MiquelEstMo&repo=Audio-Visualizer&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </p>
 
@@ -57,23 +62,19 @@
 ### 📊 Estadístiques de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MiquelEstMo&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiquelEstMo&layout=compact&theme=synthwave&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=MiquelEstMo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&icon_color=1DB954&title_color=0A66C2&count_private=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiquelEstMo&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=10&icon_color=1DB954&title_color=0A66C2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MiquelEstMo&theme=synthwave&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MiquelEstMo&theme=tokyonight&hide_border=true&border_radius=10&ring=1DB954&fire=0A66C2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiquelEstMo&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiquelEstMo&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="100%"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1DB954,100:0A66C2&height=100&section=footer"/>
-</p>
 
 <p align="center">
   <i>⭐ Sempre obert a col·laborar en projectes relacionats amb l'àudio, el processament de senyal i la tecnologia musical</i>
