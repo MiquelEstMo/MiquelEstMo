@@ -7,16 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miquel-estruch-morais/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MiquelEstMo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiquelEstMo&color=1DB954&style=for-the-badge&label=Visites+al+perfil" />
+  <a href="https://www.linkedin.com/in/miquel-estruch-morais/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
+  <a href="https://github.com/MiquelEstMo"><img src="https://img.shields.io/badge/GitHub-2ea44f?style=flat&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MiquelEstMo&color=1DB954&style=flat&label=Visites+al+perfil&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -35,16 +28,16 @@
 
 <p align="center">
   <b>Llenguatges & entorn</b><br/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e415e" />
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=003333" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=7a2415" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=003b5c" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54&labelColor=1a1a2e" alt="Python"/></a>
+  <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white&labelColor=1a1a2e" alt="LaTeX"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/></a>
 </p>
 
 <p align="center">
   <b>Àudio & producció</b><br/>
-  <img src="https://img.shields.io/badge/-Reaper-6A6A6A?style=for-the-badge&logo=reaper&logoColor=white&labelColor=2b2b2b" />
-  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white&labelColor=1a1a66" />
+  <a href="https://www.reaper.fm/"><img src="https://img.shields.io/badge/Reaper-6A6A6A?style=flat&logo=reaper&logoColor=white&labelColor=1a1a2e" alt="Reaper"/></a>
+  <a href="https://www.audacityteam.org/"><img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white&labelColor=1a1a2e" alt="Audacity"/></a>
 </p>
 
 ---
