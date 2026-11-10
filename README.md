@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A66C2,100:1DB954&height=200&section=header&text=Hola,%20soc%20en%20Miquel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DB954&height=230&section=header&text=Miquel%20Estruch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Enginyeria%20en%20Sistemes%20Audiovisuals%20·%20UPF&descSize=18&descAlignY=56" width="100%"/>
 
 <h3 align="center">🎓 Estudiant d'Enginyeria en Sistemes Audiovisuals a la UPF</h3>
 
 <p align="center">
-  🎧 Àudio &nbsp;|&nbsp; 📡 Processament de senyal &nbsp;|&nbsp; 🎛️ Sempre aprenent coses noves
+  🎧 Àudio &nbsp;|&nbsp; 📡 Processament de senyal &nbsp;|&nbsp; ☁️ Cloud &nbsp;|&nbsp; 🎛️ Sempre aprenent coses noves
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/MiquelEstMo/Audio-Visualizer">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MiquelEstMo&repo=Audio-Visualizer&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="assets/project.svg" width="100%" alt="Audio-Visualizer"/>
   </a>
 </p>
 
@@ -70,12 +70,10 @@
   <img src="https://streak-stats.demolab.com/?user=MiquelEstMo&theme=tokyonight&hide_border=true&border_radius=10&ring=1DB954&fire=0A66C2" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiquelEstMo&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="100%"/>
-</p>
-
 ---
 
 <p align="center">
   <i>⭐ Sempre obert a col·laborar en projectes relacionats amb l'àudio, el processament de senyal i la tecnologia musical</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DB954&height=140&section=footer" width="100%"/>
