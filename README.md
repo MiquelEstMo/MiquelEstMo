@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miquel-estruch-morais/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/miquel-estruch-morais/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=1a1a2e" alt="LinkedIn"/></a>
   <a href="https://github.com/MiquelEstMo"><img src="https://img.shields.io/badge/GitHub-2ea44f?style=flat&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=MiquelEstMo&color=1DB954&style=flat&label=Visites+al+perfil&labelColor=1a1a2e" />
 </p>
@@ -37,7 +37,7 @@
 
 <p align="center">
   <b>Àudio & producció</b><br/>
-  <a href="https://www.reaper.fm/"><img src="https://img.shields.io/badge/Reaper-6A6A6A?style=flat&logo=reaper&logoColor=white&labelColor=1a1a2e" alt="Reaper"/></a>
+  <a href="https://www.reaper.fm/"><img src="https://img.shields.io/badge/Reaper-6A6A6A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjkiIHdpZHRoPSIzIiBoZWlnaHQ9IjYiIHJ4PSIxLjUiLz48cmVjdCB4PSI3IiB5PSI0IiB3aWR0aD0iMyIgaGVpZ2h0PSIxNiIgcng9IjEuNSIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMyIgaGVpZ2h0PSIxMCIgcng9IjEuNSIvPjxyZWN0IHg9IjE3IiB5PSIyIiB3aWR0aD0iMyIgaGVpZ2h0PSIyMCIgcng9IjEuNSIvPjwvc3ZnPg%3D%3D&labelColor=1a1a2e" alt="Reaper"/></a>
   <a href="https://www.audacityteam.org/"><img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white&labelColor=1a1a2e" alt="Audacity"/></a>
 </p>
 
